@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Session Name="/home/guyr/sharedFolder/Technion/Wet3-tftp/tftp.workspace">
+  <int Value="0" Name="m_selectedTab"/>
+  <wxString Value="/home/guyr/sharedFolder/Technion/Wet3-tftp/tftp.workspace" Name="m_workspaceName"/>
+  <TabInfoArray Name="TabInfoArray">
+    <TabInfo>
+      <wxString Value="/home/guyr/sharedFolder/Technion/Wet3-tftp/main.c" Name="FileName"/>
+      <int Value="9" Name="FirstVisibleLine"/>
+      <int Value="20" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+  </TabInfoArray>
+  <SerializedObject Name="m_breakpoints">
+    <long Value="0" Name="Count"/>
+  </SerializedObject>
+</Session>
